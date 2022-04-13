@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+h1 {
+    margin-top: 350px;
+    font-size: 3rem;
+}
+
+h2 {
+    font-size:2rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+h1, h2, p {
+    text-align: center;
+    color: deeppink;
+    font-weight: bold;
+}
+
+
+body > div {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: calc(50% - 200px);
+    top: calc(200px + 1.75rem);
+}
+
+div>div {
+    width: 200px;
+    height: 200px;
+    transition: transform 1.5s;
+}
+
+.blue {
+    background-color: steelblue;
+    transform-origin: center center center center;
+    position: absolute;
+}
+
+.grey {
+    background-color: dimgray;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.yellow {
+    background-color: yellow;
+    position: absolute;
+    bottom: 0;
+}
+
+.brown {
+    background-color: rosybrown;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+body>div:hover .blue {
+    transform: translateX(-200px) rotate(90deg);
+}
+
+body>div:hover .brown{
+    transform: translateX(200px) rotate(90deg);
+}
+
+body>div:hover .grey  {
+    transform: translateX(200px) rotate(-90deg);
+}
+
+body>div:hover .yellow {
+    transform: translateX(-200px) rotate(-90deg);
+}
+
+.five {
+    background-color: aqua;
+    position: absolute;
+    top: 0;
+    transition-delay: 0.3s;
+    transform-origin: left top;
+}
+
+.six {
+    background-color: blueviolet;
+    position: absolute;
+    top: 0;
+    right: 0;
+    transition-delay: 0.6s;
+    transform-origin: right top;
+}
+
+.seven {
+    background-color: chartreuse;
+    position: absolute;
+    bottom: 0;
+    transition-delay: 0.9s;
+    transform-origin: left bottom;
+}
+
+.eight {
+    background-color: red;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transition-delay: 1.2s;
+    transform-origin: right bottom;
+}
+
+body>div:hover .five {
+    transform: translateY(-200px) rotate(-90deg);
+}
+
+body>div:hover .five {
+    transform: rotate(-180deg);
+}
+
+body>div:hover .six {
+    transform: rotate(180deg);
+}
+
+body>div:hover .seven {
+    transform: rotate(180deg);
+}
+
+
+body>div:hover .eight {
+    transform: rotate(-180deg);
+}
