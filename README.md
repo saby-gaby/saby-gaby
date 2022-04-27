@@ -1,12 +1,12 @@
 ### < Hey, I am Sabina >
 
-- I like to challenge my brain and learn something new every day.
+- 🧩 I like to challenge my brain and learn something new every day.
 
-- I'm not afraid of complex tasks. They are my favorites because they require unconventional and creative approach to their solution. And in addition I always learn something new in the process.
+- ♟️ I'm not afraid of complex tasks. They are my favorites because they require unconventional and creative approach to their solution. And in addition I always learn something new in the process.
 
--  I'm currently learning Web Development at Digital Career Institute (December 2021 - February 2023)
+- 👩‍💻 I'm currently learning Web Development at Digital Career Institute (December 2021 - February 2023)
 
-- I speak 🇩🇪️ german, 🇬🇧️ english and 🇧🇬 Bulgarian.
+- 🌐 I speak 🇩🇪️ german, 🇬🇧️ english and 🇧🇬 Bulgarian.
 <br><br>
 
 ### I'm always looking for new challenges
