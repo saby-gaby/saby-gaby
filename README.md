@@ -1,7 +1,6 @@
-## <a href="https://saby-gaby.github.io/saby-gaby/" target="_blank"><Hey, I am Sabina></a>
-<br>
+### < Hey, I am Sabina>
 
-- I like to challenge my brain and learn something new every day.>
+- I like to challenge my brain and learn something new every day.
 
 - I am not afraid of complex tasks. They are my favorites because they require unconventional and creative approach to their solution. And in addition I always learn something new in the process.
 
