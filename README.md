@@ -6,7 +6,12 @@
 
 - 🌐 I speak 🇩🇪️ german, 🇬🇧️ english and 🇧🇬 Bulgarian.
 <br><br>
+
+<center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saby-gaby&layout=compact&langs_count=6&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  
+</center>
 
 ### I'm always looking for new challenges
 <br>
