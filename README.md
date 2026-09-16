@@ -9,7 +9,10 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saby-gaby&layout=compact&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://vercel.app)](https://github.com/stats-organization/github-stats-extended)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saby-gaby&layout=compact&langs_count=8&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
   
 </div>
 
